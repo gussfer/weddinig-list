@@ -1,0 +1,26 @@
+h1 {
+    color:rgb(0, 140, 255);
+    font-family: "Dancing Script", cursive;
+    font-size: 90px;
+}
+h2 {
+    font-size: 20px;
+}
+html {
+    font-family: 'Signika Negative', sans-serif;
+    display: flex;
+    text-align: center;
+    background-color: whitesmoke;
+}
+li {
+    text-align: left;
+}
+h4 {
+    font-size: 30px;
+    color: red;
+}
+img {
+    max-width:200px;
+    max-height:250px;
+    margin: 10px;
+}
